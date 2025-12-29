@@ -86,6 +86,7 @@ const ProfilePage = () => {
 
       <hr className='w-[90%]' />
 
+    {/* button to show posts, liked posts, commented posts of user */}
       <div className='flex gap-5 w-[90%]'>
         <p
           onClick={() => setActiveTab('post')}
