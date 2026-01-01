@@ -18,6 +18,6 @@ NEXT_PUBLIC_API_URL - // for backend URL
 
 # links
 
-link of backend code - 
+link of backend code - https://github.com/krishal342/post_it_backend
 
 link of frontend - 
